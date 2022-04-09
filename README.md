@@ -7,4 +7,5 @@ Encryption
 -
 -  Each letter is transformed into the ASCII value. In this way we work with the values 0-25 to calculate how much the filtered text shifts and in which letter the current letter is transformed.
 -  A key is needed in order to algebrically encrypt the plain text.
-{\displaystyle C_{i}=E_{K}(M_{i})=(M_{i}+K_{i}){\bmod {2}}6}
+
+C_i =
