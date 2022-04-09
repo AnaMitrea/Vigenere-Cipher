@@ -12,3 +12,10 @@ Encryption
 Decryption
 -
 - Rule: ![Decryption rule](https://wikimedia.org/api/rest_v1/media/math/render/svg/c9b6e7fd40c1c31b56d00bc85cfe0563be8a8952)
+
+Cryptanalysis
+-
+- The idea behind the Vigenère cipher, like all other polyalphabetic ciphers, is to disguise the plaintext letter frequency to interfere with a straightforward application of frequency analysis.
+- Friedman test
+  - Index of coincidence:
+    -  Rule: ![IOC rule](https://wikimedia.org/api/rest_v1/media/math/render/svg/63c33432649ee77f4cb1bbbbaefb67cf0ebdb0df)
